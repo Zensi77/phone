@@ -6,6 +6,7 @@ public class calcu {
     }
 
     public int mult(int a, int b) {
+        System.out.println("Multiplying " + a + " and " + b);
         return a * b;
     }
 }
